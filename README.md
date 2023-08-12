@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **java ,  spring boot , angular , ionic**
 
-- 🤝 I’m looking for help with **java , spring boot , angular , ionic**
+- 🤝 I’m looking for help with **java , spring boot**
 
-- 💬 Ask me about **python , react , c# , .net**
+- 💬 Ask me about **java , spring boot , angular , ionic , html5 , css3 , bootstrap , jacascript**
 
 - 📫 How to reach me **wasselaguech@gmail.com**
 
