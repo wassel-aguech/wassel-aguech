@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **java , spring boot**
 
-- 💬 Ask me about **java , spring boot , angular , ionic , html5 , css3 , bootstrap , jacascript**
+- 💬 Ask me about **java , spring boot , angular , ionic , html5 , css3 , bootstrap , javascript**
 
 - 📫 How to reach me **wasselaguech@gmail.com**
 
