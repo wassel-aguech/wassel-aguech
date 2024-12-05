@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WASSEL AGUECH</h1>
-<h3 align="center">full Stack Web Developer from Tunisia</h3>
+<h3 align="center">Full-Stack Web Developer from Tunisia</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
