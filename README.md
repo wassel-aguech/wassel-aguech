@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **java ,  spring boot , angular , ionic**
+- 🌱 I’m currently learning **java,  spring boot, angular, devops**
 
-- 🤝 I’m looking for help with **java , spring boot**
+- 🤝 I’m looking for help with **java, spring boot,angular, devops**
 
-- 💬 Ask me about **java , spring boot , angular , ionic , html5 , css3 , bootstrap , javascript**
+- 💬 Ask me about **java, spring boot, angular, html5, css3, bootstrap, javascript, typescript**
 
 - 📫 How to reach me **wasselaguech@gmail.com**
 
