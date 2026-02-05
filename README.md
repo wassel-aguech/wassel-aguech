@@ -1,7 +1,7 @@
 <!-- GLITCH EFFECT HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=WASSEL%20AGUECH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ADMINISTRATOR%20%7C%20FULL-STACK%20ARCHITECT&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=WASSEL%20AGUECH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Web Developer (Java | Spring Boot | Angular)&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
