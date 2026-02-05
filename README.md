@@ -1,8 +1,6 @@
 <!-- GLITCH EFFECT HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=WASSEL%20AGUECH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Web Developer (Java | Spring Boot | Angular)&descAlignY=55&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=WASSEL%20AGUECH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20(Java%20|%20Spring%20Boot%20|%20Angular)&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 ```
